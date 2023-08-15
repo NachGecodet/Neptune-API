@@ -4,7 +4,7 @@
 Neptune ist eine Version Indepent Spigot Framework welche es dir ermöglicht ohne mit Reflections oder NMS ein Spigot Plugin für jede Version ab der 1.12 zu entwicklen.
 
 # Wieso sollte man Neptune verwenden?
-Jeder Plugin Developer kennt das Problem - Ihr wollt ganz normal ein Plugin für euren Server entwickeln und z.B. ein NPC Spawnen. Nun steht ihr vor eine riesen Aufgabe. Man muss mit Reflections und Datawachter Manipulation Arbeiten um mit 100 Zeilen Code ein einzigen NPC zu erstellen.
+Jeder Plugin Developer kennt das Problem - Ihr wollt ganz normal ein Plugin für euren Server entwickeln und z.B. ein NPC Spawnen. Nun steht ihr vor einer riesen Aufgabe. Man muss mit Reflections und Datawachter Manipulation Arbeiten um mit 100 Zeilen Code ein einzigen NPC zu erstellen.
 
 Auch Hologramme zu erstellen kann für viele, vorallem für Entwickler die gerade er mit der Spigot API angefangen haben ein großes grauen sein.
 
